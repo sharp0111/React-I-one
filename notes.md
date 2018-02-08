@@ -1,0 +1,6 @@
+- ctrl + c to stop the app
+- code . to open editor on the folder
+- delete the src folder (rm -rf src)
+- create src folder (md src or mkdir src).
+- add index.js inside src folder
+- JSX = looks like HTML, but it's javascript > HTML
